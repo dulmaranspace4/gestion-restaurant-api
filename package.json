@@ -1,6 +1,6 @@
 {
   "name": "gestion-restaurant-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Une API RESTful pour gérer les réservations et les commandes d'un restaurant.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
   },
   "devDependencies": {
     "jest": "^27.0.0"
-  }
+  },
+  "license": "MIT"
 }
