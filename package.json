@@ -4,8 +4,8 @@
   "description": "A RESTful API to manage restaurant reservations and orders.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",  // Démarre l'application
-    "test": "jest"  // Exécute la suite de tests
+    "start": "node index.js",
+    "test": "jest"
   },
   "dependencies": {
     "express": "^4.17.1"
