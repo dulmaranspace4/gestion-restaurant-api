@@ -4,13 +4,13 @@
   "description": "Une API RESTful pour gérer les réservations et les commandes d'un restaurant.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "jest"
+    "start": "node index.js", // Commande pour démarrer l'application
+    "test": "jest" // Commande pour exécuter les tests
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1" // Dépendance principale pour le serveur
   },
   "devDependencies": {
-    "jest": "^27.0.0"
+    "jest": "^27.0.0" // Dépendance pour les tests
   }
 }
